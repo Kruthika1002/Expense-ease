@@ -62,10 +62,3 @@ From there, you can navigate to:
 ## 📄 License
 
 This project is open-source and available for anyone to use and modify.
-
----
-
-### 💡 Feel free to fork, clone, or contribute to enhance this tracker!
-```
-
-Let me know if you want me to include badges, GitHub Pages deployment link, or a contribution section.
