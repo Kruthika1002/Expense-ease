@@ -57,7 +57,7 @@ From there, you can navigate to:
 
 ## 📸 Screenshots
 
-<img src=".png" />
+<img src="https://github.com/user-attachments/assets/672be6d6-5cce-4e75-acf3-0aced2e572e0" />
 
 ## 📄 License
 
