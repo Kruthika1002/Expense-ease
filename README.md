@@ -57,10 +57,7 @@ From there, you can navigate to:
 
 ## 📸 Screenshots
 
-- [Home Page](https://budgettracker0.html)
-- [Expense Tracker](https://testtracker.html)
-- [Monthly Records](https://budgettracker2.html)
-
+<img src=".png" />
 
 ## 📄 License
 
